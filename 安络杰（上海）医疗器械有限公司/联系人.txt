@@ -1,2 +1,3 @@
 赵小姐 	15551355807	20890560	nzhao@analogic.com	采购
-宋先生 	13816704320	20890523	dsong@analogic.com	技术工程师
+宋先生 	13816704320	20890523	dsong@analogic.com	工艺工程师
+
