@@ -1,0 +1,22 @@
+一位张先生过来询价：
+
+毛先生：
+       我司现在需求一台LCR测试仪，具体参数要求如下：
+1）测量频率0-20MHZ；
+2）基本阻抗测量精度±0.08%（±0.045% 典型值）
+3）输出阻抗小于50Ω
+4）电压信号电平：范围，5mV-1V，分辨率1mV
+   电流信号电平：范围，200ч A-20mA,分辨率,20ч A
+5)测试精度：暂无
+请帮忙选型并将相关的技术参数发送给我，谢谢！
+
+bo zhang（张波）
+Shanghai JTR Automotive Components Co.,Ltd.
+
+No.1128 Jiaxin Road,Jiading Distect,Shanghai China.
+
+上海市嘉定区嘉新公路1128号
+Tel:+86-21-39152076-836
+M:+86-15821038875
+Fax:+86-21-39152070
+E-mail:bo.zhang@jtrauto.com
